@@ -2,9 +2,9 @@
 Gerenciador de Turmas e Atividades com usuario Professor e Aluno, Professor com certas permissões e Aluno tambem
 
 ### MerDer
-![MerDer](./docs/Captura%20de%20tela%202025-10-15%20144757.png)
+![MerDer](./docs/Captura%20de%20tela%202025-10-15%20145409.png)
 ### Diagrama de Casos de Uso
-![DCU](./docs/Captura%20de%20tela%202025-10-15%20145409.png)
+![DCU](./docs/Captura%20de%20tela%202025-10-15%20144757.png)
 
 ## Como testar 
 1. Configure o ambiente de desenvolvimento com as seguintes ferramentas.
