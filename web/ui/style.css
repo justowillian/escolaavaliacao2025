@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.topbar {
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+}
+
+.btn-sair {
+  background-color: transparent;
+  border: none;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.btn-sair:hover {
+  opacity: 0.7;
+}
+
+main {
+  padding: 20px;
+}
+
+.painel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-primario {
+  background-color: #000000;
+  color: #ffffff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn-primario:hover {
+  background-color: #333333; 
+}
+
+.tabela {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background: #ffffff;
+}
+
+.tabela th,
+.tabela td {
+  border: 1px solid #000000;
+  padding: 10px;
+  text-align: left;
+  color: #000000;
+}
+
+.tabela th {
+  background-color: #f0f0f0;
+}
+
+.btn-excluir {
+  background-color: #000000;
+  border: none;
+  color: #ffffff;
+  padding: 6px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.btn-excluir:hover {
+  background-color: #333333;
+}
+
+.btn-visualizar {
+  background-color: #000000;
+  border: none;
+  color: #ffffff;
+  padding: 6px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn-visualizar:hover {
+  background-color: #333333; 
+}
