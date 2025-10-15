@@ -19,7 +19,7 @@ Gerenciador de Turmas e Atividades com usuario Professor e Aluno, Professor com 
 
 
 bash
-git clone <https://url>
+git clone <https://github.com/justowillian/escolaavaliacao2025.git>
 
 
 - Agora com o repositorio clonado, entre nela com o seguinte comando
