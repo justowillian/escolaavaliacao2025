@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  background: #a3a3a3;
+  background: #7e7e7e;
   padding: 40px 50px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -24,7 +24,7 @@ body {
 
 .container h2 {
   margin-bottom: 25px;
-  color: #000000;
+  color: #00ccff;
   font-weight: 600;
 }
 
@@ -40,11 +40,11 @@ input {
 }
 
 input::placeholder {
-  color: #a1a1a1;
+  color: #e4e4e4;
 }
 
 input:focus {
-  border-color: #000000;
+  border-color: #00ccff;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -52,7 +52,7 @@ button {
   width: 100%;
   padding: 12px;
   margin-top: 15px;
-  background-color: #000000;
+  background-color: #00ccff;
   border: none;
   color: #fff;
   font-size: 14px;
